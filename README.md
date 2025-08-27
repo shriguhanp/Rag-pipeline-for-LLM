@@ -24,13 +24,16 @@ It allows users to ask **any question on Wikipedia topics** and get **precise AI
 ## 🎬 Demo / Screenshots
 
 ### Home Page
-![Home Page]("C:\Users\Hp\OneDrive\画像\Screenshots\Screenshot 2025-08-27 090801.png")  
+<img width="1919" height="892" alt="Screenshot 2025-08-27 090801" src="https://github.com/user-attachments/assets/01179048-31ca-44f2-9e42-2b0046b1ba63" />
+
 
 ### Ask a Question
-![Ask Question]("C:\Users\Hp\OneDrive\画像\Screenshots\Screenshot 2025-08-27 090953.png")  
+<img width="1919" height="894" alt="Screenshot 2025-08-27 090953" src="https://github.com/user-attachments/assets/465fb9a8-fd33-42d9-9f95-d4d9008b2802" />
+
 
 ### AI Answer
-![Answer]("C:\Users\Hp\OneDrive\画像\Screenshots\Screenshot 2025-08-27 083746.png")  
+<img width="1915" height="895" alt="Screenshot 2025-08-27 083746" src="https://github.com/user-attachments/assets/ef48aebd-f249-4f56-b2d6-ff50a762e4d9" />
+  
 
 ## 🗂 Folder Structure
 rag-assistant/
