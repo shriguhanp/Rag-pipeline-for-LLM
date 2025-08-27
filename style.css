@@ -1,0 +1,22 @@
+body {
+    background-color: #f5f5f7;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.stTextInput>div>input {
+    border-radius: 12px;
+    padding: 10px;
+    font-size: 16px;
+}
+
+.stButton>button {
+    background-color: #0071e3;
+    color: white;
+    font-weight: bold;
+    border-radius: 12px;
+    padding: 10px 20px;
+}
+
+.stButton>button:hover {
+    background-color: #005bb5;
+}
